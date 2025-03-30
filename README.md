@@ -20,3 +20,40 @@ This is a **Matrix Calculator** built using Python and NumPy. It allows users to
 ### 📦 **Install Required Packages**
 ```bash
 pip install numpy
+```
+---
+
+### 📄 **How to Run**
+1.Clone the Repository
+```bash
+git clone https://github.com/your-username/matrix-calculator.git
+```
+
+2.Navigate to the Project Folder
+```bash
+cd matrix-calculator
+```
+
+3.Run the Script
+```bash
+python matrix_calculator.py
+```
+---
+### **⚙️ Usage**
+Enter the number of rows and columns for Matrix A.
+
+Input matrix values (one row at a time, space-separated).
+
+Choose an operation:
+
+1 - Add A + A
+
+2 - Subtract A - A
+
+3 - Multiply A * A (for square matrices only)
+
+4 - Find Determinant (for square matrices only)
+
+Get the result instantly!
+
+
